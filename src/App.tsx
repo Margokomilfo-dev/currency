@@ -4,7 +4,7 @@ import { CurrencyEContainer } from './components/CurrencyEContainer'
 
 function App() {
     return (
-        <div>
+        <div className="container">
             <CurrencyEContainer/>
         </div>
     )
