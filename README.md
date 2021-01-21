@@ -2,4 +2,5 @@
 
 Link to gh-pages: https://margokomilfo-dev.github.io/currency/
 
-![Alt text](./assets/1.png)
+![alt text](assets/1.png) <br/>
+Pic 1 - The interface of app
